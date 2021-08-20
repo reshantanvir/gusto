@@ -23,7 +23,6 @@ const Landing = () => {
 			<button className='bg-[#2CA01C] text-white font-semibold rounded-full px-4 py-2' onClick={handleConnect}>
 				Connect
 			</button>
-			<h1>Reshan</h1>
 		</div>
 	);
 };
